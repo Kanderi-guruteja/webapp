@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +13,7 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-        }
+        
 
         h2 {
             color: #333;
@@ -39,7 +39,7 @@
         }
     </script>
     <title>Welcome to Webhook Demo</title>
-</head>
+
 <body>
     <div class="container">
         <h2>Howdy folks! Welcome to Webhook from GitHub to Jenkins!!!</h2>
