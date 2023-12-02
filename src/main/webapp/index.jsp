@@ -6,20 +6,15 @@
         body {
             font-family: 'Arial', sans-serif;
             background-color: #f4f4f4;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
+            m
         
 }
         
 
         }
         }
-    </script>
-    <title>Welcome to Webhook Demo</title>
+    </scriipt>
+    <tittle>Welcome to Webhook Demo</title>
 
 <body>
     <div class="container">
